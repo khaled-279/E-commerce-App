@@ -82,7 +82,7 @@ export const Footer = () => {
           </Link>
           <div className="flex -mx-2">
             <a
-              href="https://www.facebook.com/amr.mohammadabohassab/"
+              href=""
               target="_blanck"
               className="mx-2 text-gray-600 transition-colors duration-300 dark:text-gray-300 hover:text-main dark:hover:text-main"
               aria-label="Facebook"
@@ -97,7 +97,7 @@ export const Footer = () => {
               </svg>
             </a>
             <a
-              href="https://github.com/amr1abo2hassab3"
+              href=""
               target="_blanck"
               className="mx-2 text-gray-600 transition-colors duration-300 dark:text-gray-300 hover:text-main dark:hover:text-blue-400"
               aria-label="Github"
